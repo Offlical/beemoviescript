@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RandomString.iml" filepath="$PROJECT_DIR$/RandomString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeeMovieScript.iml" filepath="$PROJECT_DIR$/BeeMovieScript.iml" />
     </modules>
   </component>
 </project>
