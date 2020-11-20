@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="dev.offlical.macro.MWindow">
+  <grid id="cbd77" binding="contentPane" layout-manager="FormLayout">
+    <rowspec value="center:d:grow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:d:grow"/>
+    <colspec value="fill:d:grow"/>
+    <constraints>
+      <xy x="48" y="54" width="767" height="471"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="308e2" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="98744" layout-manager="FormLayout">
+            <rowspec value="center:max(d;4px):noGrow"/>
+            <rowspec value="top:4dlu:noGrow"/>
+            <rowspec value="center:max(d;4px):noGrow"/>
+            <rowspec value="top:4dlu:noGrow"/>
+            <rowspec value="center:d:grow"/>
+            <rowspec value="top:4dlu:noGrow"/>
+            <rowspec value="center:max(d;4px):noGrow"/>
+            <rowspec value="top:4dlu:noGrow"/>
+            <rowspec value="center:max(d;4px):noGrow"/>
+            <colspec value="fill:d:grow"/>
+            <colspec value="left:4dlu:noGrow"/>
+            <colspec value="fill:d:grow"/>
+            <constraints border-constraint="Center"/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <grid id="7acf" layout-manager="FormLayout">
+                <rowspec value="center:d:noGrow"/>
+                <colspec value="fill:max(d;4px):noGrow"/>
+                <colspec value="left:4dlu:noGrow"/>
+                <colspec value="fill:max(d;4px):noGrow"/>
+                <colspec value="left:4dlu:noGrow"/>
+                <colspec value="fill:d:grow"/>
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <forms defaultalign-vert="false"/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="30ff1" class="javax.swing.JButton" binding="genMsgs" custom-create="true">
+                    <constraints>
+                      <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                      <forms/>
+                    </constraints>
+                    <properties>
+                      <text value="Generate Messages"/>
+                    </properties>
+                  </component>
+                  <component id="26c25" class="javax.swing.JTextField" binding="charsBox" custom-create="true">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                      <forms/>
+                    </constraints>
+                    <properties>
+                      <columns value="10"/>
+                      <text value="1000"/>
+                    </properties>
+                  </component>
+                  <component id="3f155" class="javax.swing.JLabel">
+                    <constraints>
+                      <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                      <forms/>
+                    </constraints>
+                    <properties>
+                      <text value="Characters per message"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <component id="29f08" class="javax.swing.JCheckBox" binding="downloadAlways" custom-create="true">
+                <constraints>
+                  <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <forms/>
+                </constraints>
+                <properties>
+                  <selected value="true"/>
+                  <text value="&lt;html&gt; Save process time &lt;br /&gt; (instead of downloading the script each time, save it in a file and load it from there.) &lt;html&gt;"/>
+                </properties>
+              </component>
+              <grid id="594c" layout-manager="BorderLayout" hgap="0" vgap="0">
+                <constraints>
+                  <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                  <forms/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="c6ee3" class="javax.swing.JProgressBar" binding="progressBar1" custom-create="true" default-binding="true">
+                    <constraints border-constraint="Last"/>
+                    <properties>
+                      <string value="0%"/>
+                      <value value="0"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <component id="a7a37" class="javax.swing.JLabel" binding="LogText" custom-create="true">
+                <constraints>
+                  <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                  <forms/>
+                </constraints>
+                <properties>
+                  <text value="Latest Log | None"/>
+                </properties>
+              </component>
+              <scrollpane id="b8ca" binding="scroll" custom-create="true">
+                <constraints>
+                  <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                  <forms defaultalign-horz="false" defaultalign-vert="false"/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="f9a2f" class="javax.swing.JTextArea" binding="consoleLog" custom-create="true">
+                    <constraints/>
+                    <properties>
+                      <columns value="70"/>
+                      <editable value="false"/>
+                      <rows value="5"/>
+                      <text value=""/>
+                      <toolTipText value=""/>
+                    </properties>
+                  </component>
+                </children>
+              </scrollpane>
+              <grid id="9860a" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+                <constraints>
+                  <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                  <forms/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="3a18d" class="javax.swing.JTextField" binding="secondsBox" custom-create="true">
+                    <constraints/>
+                    <properties>
+                      <columns value="5"/>
+                      <text value="3"/>
+                    </properties>
+                  </component>
+                  <component id="9827c" class="javax.swing.JLabel">
+                    <constraints/>
+                    <properties>
+                      <text value="Seconds between each message sent"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <component id="38eae" class="javax.swing.JButton" binding="macroButton" custom-create="true">
+                <constraints>
+                  <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <forms/>
+                </constraints>
+                <properties>
+                  <text value="Start Macro"/>
+                </properties>
+              </component>
+              <component id="87d5a" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <forms/>
+                </constraints>
+                <properties>
+                  <text value="CONSOLE LOG"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <grid id="99b45" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="8cdf4" class="javax.swing.JLabel">
+            <constraints border-constraint="Center"/>
+            <properties>
+              <text value="&lt;html&gt; &lt;div style='font-size: 24; font-weight: bold'&gt; Welcome to the Bee Movie Script Spammer™! &lt;/div&gt; &lt;br /&gt;  &lt;br/&gt; &lt;div style='font-weight: bold; font-size: 16 '&gt;Why did you make this? &lt;/div&gt; &lt;div style='font-size: 15'&gt; i was bored and also wanted to bully someone on discord and then i invested too much time into it and made a user friendly version to cause chaos. &lt;div style='font-weight: bold; font-size: 16 '&gt;How does this work? &lt;/div&gt; &#10;&lt;div style='font-size: 15'&gt; The way this works is that you choose how much characters you want to be sent with each message, and how long do you want between each message to be sent. &lt;br /&gt; the way it sends the messages is by forcing your computer to click Ctrl+V, and then Enter so it sends the message. &lt;br /&gt; which does require you to be inside of the application you want to spam in.&lt;div style='font-weight: bold; font-size: 16 '&gt;This is so stupid and not even that funny &lt;/div&gt; &lt;div style='font-size: 15'&gt; yes, i know but please still follow me on twitter so i feel like this was somewhat useful (@notOfflical), &lt;br /&gt; also if you for some reason check my code, fuck you, do you really wanna steal this abomination?&#10;&lt;html&gt;"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

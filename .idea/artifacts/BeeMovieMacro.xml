@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BeeMovieMacro">
+    <output-path>$PROJECT_DIR$/out/artifacts/BeeMovieMacro</output-path>
+    <root id="archive" name="RandomString.jar">
+      <element id="module-output" name="RandomString" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/jgoodies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/jsoup-1.13.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
