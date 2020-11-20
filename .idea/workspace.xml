@@ -7,7 +7,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32c30354-c7f3-4c7a-ade8-deaa192d3f0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/RandomString.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BeeMovieScript.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RandomString_jar/RandomString.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/dev/offlical/macro/BeeMovieM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/dev/offlical/macro/MWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BeeMovieScript/dev/offlical/macro/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/META-INF/RandomString.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/dev/offlical/macro/BeeMovieM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/dev/offlical/macro/MWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/dev/offlical/macro/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/dev/offlical/random/CountingThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/dev/offlical/random/DifferentMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/dev/offlical/random/EstimaedTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/dev/offlical/random/NitroThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomString/dev/offlical/random/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,33 +182,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605800712120" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1605896785179">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1605897047590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605896785179" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1605896785179">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605897047590" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1605897047588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605896785179" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1605896785178">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605897047588" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1605897047588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605896785178" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1605896785179">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605897047588" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1605897047588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605896785179" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605897047588" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1605815671698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605815671698" />
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1605885271102">
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1605903189647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605885271102" />
-    <state x="730" y="400" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1605815011762">
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605903189647" />
+    <state x="730" y="400" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1605903203327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="730" y="400" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605815011762" />
+    <state x="730" y="400" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605903203327" />
   </component>
 </project>
